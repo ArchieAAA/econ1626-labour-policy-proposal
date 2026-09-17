@@ -40,5 +40,13 @@ Implementation would occur in four stages. During months 1–3, DEWR and JSA wou
 
 Performance should be measured through training completion, 6- and 12-month employment retention, redeployment rates, changes in earnings, employer co-contributions, cost per successfully redeployed worker and **additionality**—whether public funding generated retraining that would not otherwise have occurred.
 ## Risks & Mitigations
+The pilot faces several implementation risks. First, **deadweight spending** may arise if firms receive subsidies for training they would have funded anyway. Employer co-contributions, evidence of material AI-related task change and an additionality test should reduce this risk.
 
+Second, employers may classify ordinary restructuring as AI-related to access funding. DEWR should therefore require documented changes to workers' task bundles and retain audit powers over participating firms.
+
+Third, retraining may not prevent later redundancy. Funding should therefore be conditional on a minimum post-training retention commitment and on training being linked to redesigned or transferable skills rather than narrow firm-specific tasks.
+
+The scheme may also distribute benefits unevenly because casual workers, freelancers and people already unemployed are less likely to be covered by employer-led redeployment. This limitation should be explicitly monitored during the pilot, with the final evaluation examining whether a separate worker-directed pathway is required.
+
+Finally, AI capabilities and workplace applications are likely to change during implementation. Eligibility rules and approved training categories should therefore be reviewed throughout the pilot, with a formal evaluation at the end of year two before any continuation or expansion.
 ## References
