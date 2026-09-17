@@ -32,7 +32,13 @@ International experience demonstrates similar mechanisms. Singapore combines ind
 
 The options therefore solve different problems: Option 1 reduces the price of acquiring skills, Option 2 supports job redesign before displacement occurs, and Option 3 reduces the opportunity cost of retraining. Their relative suitability depends on whether the policy objective prioritises worker portability, employment retention or income protection.
 ## Recommended Package & Implementation Plan
+The selected package is a two-year **AI Workforce Redeployment Partnership** administered by DEWR with analytical support from Jobs and Skills Australia. The pilot would cover up to 10,000 workers and provide matched government funding of up to A$4,000 per worker for approved retraining and redeployment, producing a maximum training subsidy of A$40 million. An additional A$4 million would be allocated to administration and evaluation, giving an illustrative total public cost of **A$44 million over two years**.
 
+Employers would only qualify where they can demonstrate that AI adoption has materially changed workers' tasks, submit a retraining and redeployment plan, make a financial contribution and commit to retaining participating workers for a minimum period. Training would need to support redesigned, transferable or AI-complementary skills rather than general AI literacy.
+
+Implementation would occur in four stages. During months 1–3, DEWR and JSA would establish eligibility rules, approved training criteria and baseline indicators. Employer applications would open in months 4–6, followed by training and redeployment during months 7–18. Months 19–24 would be used for independent evaluation before a decision on continuation, modification or expansion.
+
+Performance should be measured through training completion, 6- and 12-month employment retention, redeployment rates, changes in earnings, employer co-contributions, cost per successfully redeployed worker and **additionality**—whether public funding generated retraining that would not otherwise have occurred.
 ## Risks & Mitigations
 
 ## References
