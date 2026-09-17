@@ -28,7 +28,7 @@ Three policy options address different barriers to labour-market adjustment and 
 | **2. Employer AI Redeployment Partnership** | Co-fund employers up to A$4,000 per worker to retrain and redeploy employees whose tasks are materially changed by AI. A 10,000-worker pilot plus administration would have an illustrative maximum public cost of A$44 million. | Preserves worker–firm matches and intervenes before redundancy, while employer co-funding shares costs. However, firms may seek subsidies for training they would already have provided, requiring verification of AI-related task change and redeployment. |
 | **3. AI Transition Training Allowance** | Replace 50% of previous earnings, capped at A$800 per week for up to 12 weeks, for workers undertaking approved retraining after AI-related displacement. An illustrative 5,000-worker pilot would cost about A$46 million. | Addresses liquidity constraints and improves access for workers unable to forgo earnings. However, it has a higher cost per participant and requires government to establish whether income or hours reductions are genuinely linked to AI. |
 
-International experience demonstrates similar mechanisms. Singapore combines individual training credits with income support for eligible mid-career training, while Germany's Qualifizierungsgeld provides income replacement during employer-linked retraining for workers affected by structural change (SkillsFuture Singapore 2026; Bundesagentur für Arbeit 2026). These schemes illustrate different ways of sharing adjustment costs rather than providing direct templates for Australia.
+International experience demonstrates similar mechanisms. Singapore combines individual training credits with income support for eligible mid-career training, while Germany's Qualifizierungsgeld provides income replacement during employer-linked retraining for workers affected by structural change (MySkillsFuture 2026; Bundesagentur für Arbeit n.d.). These schemes illustrate different ways of sharing adjustment costs rather than providing direct templates for Australia.
 
 The options therefore solve different problems: Option 1 reduces the price of acquiring skills, Option 2 supports job redesign before displacement occurs, and Option 3 reduces the opportunity cost of retraining. Their relative suitability depends on whether the policy objective prioritises worker portability, employment retention or income protection.
 ## Recommended Package & Implementation Plan
@@ -50,3 +50,22 @@ The scheme may also distribute benefits unevenly because casual workers, freelan
 
 Finally, AI capabilities and workplace applications are likely to change during implementation. Eligibility rules and approved training categories should therefore be reviewed throughout the pilot, with a formal evaluation at the end of year two before any continuation or expansion.
 ## References
+Acemoglu, D & Restrepo, P 2019, ‘Automation and new tasks: How technology displaces and reinstates labor’, *Journal of Economic Perspectives*, vol. 33, no. 2, pp. 3–30, doi:10.1257/jep.33.2.3.
+
+Australian Bureau of Statistics (ABS) 2026, *Characteristics of Australian Business, 2024–25 financial year*, Australian Bureau of Statistics, released 25 June 2026, accessed 17 September 2026.
+
+Brynjolfsson, E, Li, D & Raymond, LR 2025, ‘Generative AI at work’, *The Quarterly Journal of Economics*, vol. 140, no. 2, pp. 889–942, doi:10.1093/qje/qjae044.
+
+Bundesagentur für Arbeit n.d., *Qualifizierungsgeld*, Bundesagentur für Arbeit, accessed 17 September 2026.
+
+Dell’Acqua, F, McFowland, E III, Mollick, E, Lifshitz, H, Kellogg, KC, Rajendran, S, Krayer, L, Candelon, F & Lakhani, KR 2026, ‘Navigating the jagged technological frontier: Field experimental evidence of the effects of artificial intelligence on knowledge worker productivity and quality’, *Organization Science*, vol. 37, no. 2, pp. 403–423, doi:10.1287/orsc.2025.21838.
+
+Department of Employment and Workplace Relations (DEWR) 2026, *AI and employment in Australia*, Office of the Chief Economist, Australian Government, accessed 17 September 2026.
+
+Department of Industry, Science and Resources (DISR) 2025, *National AI Plan: Spread the benefits*, Australian Government, accessed 17 September 2026.
+
+Hui, X, Reshef, O & Zhou, L 2024, ‘The short-term effects of generative artificial intelligence on employment: Evidence from an online labor market’, *Organization Science*, vol. 35, no. 6, pp. 1977–1989, doi:10.1287/orsc.2023.18441.
+
+Jobs and Skills Australia (JSA) 2025, *Our Gen AI Transition: Implications for Work and Skills*, Australian Government, published 14 August 2025, accessed 17 September 2026.
+
+MySkillsFuture 2026, *SkillsFuture Level-Up Programme*, Singapore Government, last updated 1 July 2026, accessed 17 September 2026.
