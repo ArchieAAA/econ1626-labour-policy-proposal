@@ -6,10 +6,3 @@ For research and argument development, I used ChatGPT to identify relevant Austr
 One output I accepted and developed was the Employer AI Redeployment Partnership because it aligned with my chosen focus on productivity and worker redeployment. I also rejected a later suggestion to add another paragraph on freelance earnings because I felt the proposal already contained sufficient analysis for the final draft.
 
 A key limitation was the risk of over-relying on AI-generated summaries or citations. This required checking source details and distinguishing illustrative policy assumptions from existing government policy.
-## Tools Used
-
-## How AI Was Used
-
-## Example of Accepting, Rejecting or Editing AI Output
-
-## Limitation or Risk Identified
